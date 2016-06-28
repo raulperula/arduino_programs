@@ -7,8 +7,8 @@ void setup()
 {
   motor1.attach(8);
   //motor2.attach(9);
-  
 }
+
 void loop()
 {
     motor1.write(90);
