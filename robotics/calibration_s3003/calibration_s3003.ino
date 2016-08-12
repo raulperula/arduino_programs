@@ -9,7 +9,6 @@ void setup()
 {
     servoR.attach(servoPinR);
     servoL.attach(servoPinL);
-    Serial.begin(9600);
 }
 
 void loop()
