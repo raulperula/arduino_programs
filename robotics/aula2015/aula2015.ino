@@ -1,4 +1,4 @@
-#include <Servo.h> 
+#include <Servo.h>
 
 // Hay que sustituir el numero por el numero del robot que os haya tocado sin las comillas.
 // Ejemplo: 

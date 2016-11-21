@@ -1,5 +1,6 @@
-// Debido a la simetria en espejo de la posicion de los servos trucados, el valor para ir recto debe ser el inverso 
-// y el valor para girar cada servo en direccion contraria debe ser el mismo.
+// Debido a la simetria en espejo de la posicion de los servos
+// el valor para ir recto debe ser el inverso 
+// y el valor para girar cada servo en direccion contraria debe ser el mismo
 
 Servo servo_izq, servo_dcha;
 int pin_servo_izq = 9;
